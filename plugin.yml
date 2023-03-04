@@ -1,0 +1,6 @@
+name: GameAPI
+author: HimmelKreis4865
+main: HimmelKreis4865\GameAPI\GameAPI
+version: 0.0.1
+api: 5.0.0
+description: A foundation to create minigames easier
